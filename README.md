@@ -11,8 +11,8 @@ This project focuses on cleaning and preprocessing the raw Netflix dataset to en
 - Seaborn
 
 ## Files Included
-- `netflix_raw_data.csv` – The original dataset.
-- `netflix_data_cleaning.ipynb` – Jupyter Notebook containing the cleaning steps.
+- <a href="https://github.com/khushigupta95/Data_cleaning_Netlfix_data/blob/main/netflix_titles.csv">Dataset</a>– The original dataset.
+- -<a href="https://github.com/khushigupta95/Data_cleaning_Netlfix_data/blob/main/NetflixTitlesCleaning.ipynb">Jupyter notebook</a> – Jupyter Notebook containing the cleaning steps.
 
 
 ## Steps Performed
